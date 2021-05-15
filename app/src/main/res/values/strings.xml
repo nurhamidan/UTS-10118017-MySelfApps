@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">My Self Apps</string>
+    <string name="walkthrough_title_1">Welcome to My App</string>
+    <string name="walkthrough_title_2">Easy to Contact</string>
+    <string name="walkthrough_title_3">Enjoy My App</string>
+    <string name="walkthrough_text_1">Selamat datang di aplikasi myself. Aplikasi ini dibuat oleh Agung Nurhamidan dengan NIM 10118017. Terdapat beberapa hal yang disajikan dalam aplikasi ini mengenai profil dan hal yang aku sukai.</string>
+    <string name="walkthrough_text_2">Menyediakan fitur yang membuat Anda mudah untuk menghubungiku baik dari nomor telepon, email, atau social media. Semuanya bisa dilakukan dengan satu kali klik.</string>
+    <string name="walkthrough_text_3">Silakan nikmati fitur-fitur yang ada dalam aplikasi ini.</string>
 </resources>
